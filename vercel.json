@@ -5,7 +5,7 @@
       "includeFiles": "db.json"
     }
   },
-  "rewrites": [
+  "routes": [
     {
       "source": "/(.*)",
       "destination": "api/server.js"
