@@ -1,22 +1,4 @@
 {
-  "cars": [
-    {
-      "id": "3563",
-      "name": "Gol",
-      "plate": "fgd-1234"
-    }
-  ],
-  "drivers": [
-    {
-      "id": "f22a",
-      "name": "junio",
-      "document": "999.999.999-00",
-      "carId": "3563",
-      "car": {
-        "id": "3563",
-        "name": "Gol",
-        "plate": "fgd-1234"
-      }
-    }
-  ]
+  "cars": [],
+  "drivers": []
 }
